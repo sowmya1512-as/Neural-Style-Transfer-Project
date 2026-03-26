@@ -31,3 +31,4 @@ In conclusion, this project successfully implements a basic Neural Style Transfe
 
 output of the task :
 
+<img width="1806" height="914" alt="Image" src="https://github.com/user-attachments/assets/aa4abec6-c2ee-41f7-959c-a2789ba1330f" />
